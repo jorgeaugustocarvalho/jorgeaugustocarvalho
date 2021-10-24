@@ -27,7 +27,7 @@ At the moment, learning NodeJs, angular and React.
 * :video_game: My favorite pokémon is Weavile 
 * :facepunch: My birthday is the same day of Jackie Chan  	
 
-### Some technologies that i'm learning:
+### Some technologies that i've been learning:
 
 <div style="display: inline_block">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
