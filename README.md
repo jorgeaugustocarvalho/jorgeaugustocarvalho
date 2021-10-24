@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 <h2 align="center">Heeello!☺ <img src="https://media.giphy.com/media/vSeKFfeEWwN6E/giphy.gif" width="100" height="100"></h2>
 
-Hi, i'm Jorge, a full stack web-developer (with some crush in front-end) from Brazil. Started at University studying math (yes, not a joke), but after 6 months I quitted and entered in this world of technology. :grin:
+Hi, i'm Jorge, a full stack web-developer (with some crush in front-end) from Brazil. Started at University studying math (yes, not a joke), but after 6 months I quitted and entered in this world of technology. :grin: 
 
 At the moment, learning NodeJs, angular and React.
 
@@ -25,7 +25,8 @@ At the moment, learning NodeJs, angular and React.
 * :mortar_board: I Study at UFF (Universidade Federal Fluminense) 
 * :eggplant: Breaded aubergine >>> all foods​
 * :video_game: My favorite pokémon is Weavile 
-* :facepunch: My birthday is the same day of Jackie Chan  	
+* :facepunch: My birthday is the same day of Jackie Chan
+* ✏️ I like to draw randomly sometimes  	
 
 ### Some technologies that i've been learning:
 
