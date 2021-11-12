@@ -64,7 +64,7 @@ At the moment, learning javascript, NodeJs, angular and React.
 </div>
 
 <div>
-        <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgeaugustocarvalho&layout=compact&bg_color=000000&title_color=9ACD32&text_color=228B22">
-        <img height="150" src="https://github-readme-stats.vercel.app/api?username=jorgeaugustocarvalho&title_color=9ACD32&bg_color=000000&text_color=228B22">
-        <img height="150" src="https://user-images.githubusercontent.com/61850096/141291996-a3bdb78b-2e6e-4f5a-b3d9-f86d8f78e3da.png">
+        <img height="135" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgeaugustocarvalho&layout=compact&bg_color=000000&title_color=9ACD32&text_color=228B22">
+        <img height="135" src="https://github-readme-stats.vercel.app/api?username=jorgeaugustocarvalho&title_color=9ACD32&bg_color=000000&text_color=228B22">
+        <img height="135" src="https://user-images.githubusercontent.com/61850096/141291996-a3bdb78b-2e6e-4f5a-b3d9-f86d8f78e3da.png">
 </div>
