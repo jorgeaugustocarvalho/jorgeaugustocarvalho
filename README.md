@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 <h2 align="center">Heeello!☺ <img src="https://media.giphy.com/media/vSeKFfeEWwN6E/giphy.gif" width="100" height="100"></h2>
 
-Hi, i'm Jorge, a full stack web-developer (with some crush in front-end) student from Brazil. Started at University studying math (yes, not a joke), but after 6 months I quitted and entered in this world of technology. :grin: 
+Hi, i'm Jorge, a full stack web-developer (with some crush in front-end) student from Brazil. Started at University studying math, but after 6 months I quitted and entered in this world of technology. :grin: 
 
 At the moment, learning AWS, docker, pixel art and unity.
 
