@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Hi, i'm Jorge, a full stack web-developer (with some crush in front-end) student from Brazil. Started at University studying math (yes, not a joke), but after 6 months I quitted and entered in this world of technology. :grin: 
 
-At the moment, learning javascript, NodeJs, angular and React.
+At the moment, learning AWS, docker, pixel art and unity.
 
 ### Some curiosities About me XD:
 
